@@ -1,6 +1,6 @@
 h2,
 td {
-  font-family: "'Open Sans', sans-serif";
+  font-family: "'Roboto', sans-serif";
   text-align: center;
 }
 
@@ -20,7 +20,7 @@ button {
 }
 
 thead {
-  font-family: "Patrick Hand", cursive;
+  font-family: "Roboto", cursive;
   background-color: rgb(220, 240, 240);
   border-radius: 15px;
 }
