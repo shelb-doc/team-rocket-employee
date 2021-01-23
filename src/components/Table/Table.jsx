@@ -32,7 +32,6 @@ class Table extends Component {
   handleInputChange = (event) => {
     // Getting the value and name of the input which triggered the change
     const { name, value } = event.target;
-
     const filteredEmployees = this.state.employees.filter((employee) => {
       return employee.name.last.includes(value);
     });
@@ -84,7 +83,6 @@ class Table extends Component {
                   <th scope="col">
                     <h2>Age</h2>
                   </th>
-
                   <th scope="col">
                     <h2>Gender</h2>
                   </th>

@@ -8,8 +8,8 @@ function Jumbotron() {
         style={{
           padding: "20px",
           textAlign: "center",
-          backgroundColor: "#000080",
-          color: "#e6e6ff",
+          backgroundColor:'#0093E9' ,
+          backgroundImage: 'linear-gradient(45deg, #0093E9 0%, #80D0C7 100%)',
           fontFamily: "'Patrick Hand', cursive",
         }}
       >
